@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\HW_Exel\HW_Exel\bin\Debug\net5.0\HW_Exel.exe
+C:\Users\User\source\repos\HW_Exel\HW_Exel\bin\Debug\net5.0\HW_Exel.deps.json
+C:\Users\User\source\repos\HW_Exel\HW_Exel\bin\Debug\net5.0\HW_Exel.runtimeconfig.json
+C:\Users\User\source\repos\HW_Exel\HW_Exel\bin\Debug\net5.0\HW_Exel.runtimeconfig.dev.json
+C:\Users\User\source\repos\HW_Exel\HW_Exel\bin\Debug\net5.0\HW_Exel.dll
+C:\Users\User\source\repos\HW_Exel\HW_Exel\bin\Debug\net5.0\ref\HW_Exel.dll
+C:\Users\User\source\repos\HW_Exel\HW_Exel\bin\Debug\net5.0\HW_Exel.pdb
+C:\Users\User\source\repos\HW_Exel\HW_Exel\obj\Debug\net5.0\HW_Exel.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\HW_Exel\HW_Exel\obj\Debug\net5.0\HW_Exel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HW_Exel\HW_Exel\obj\Debug\net5.0\HW_Exel.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HW_Exel\HW_Exel\obj\Debug\net5.0\HW_Exel.AssemblyInfo.cs
+C:\Users\User\source\repos\HW_Exel\HW_Exel\obj\Debug\net5.0\HW_Exel.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HW_Exel\HW_Exel\obj\Debug\net5.0\HW_Exel.dll
+C:\Users\User\source\repos\HW_Exel\HW_Exel\obj\Debug\net5.0\ref\HW_Exel.dll
+C:\Users\User\source\repos\HW_Exel\HW_Exel\obj\Debug\net5.0\HW_Exel.pdb
+C:\Users\User\source\repos\HW_Exel\HW_Exel\obj\Debug\net5.0\HW_Exel.genruntimeconfig.cache

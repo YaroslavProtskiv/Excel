@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\HW_Exel\HW_Exel\bin\Debug\net5.0\1.2.Excel.exe
+C:\Users\User\source\repos\HW_Exel\HW_Exel\bin\Debug\net5.0\1.2.Excel.deps.json
+C:\Users\User\source\repos\HW_Exel\HW_Exel\bin\Debug\net5.0\1.2.Excel.runtimeconfig.json
+C:\Users\User\source\repos\HW_Exel\HW_Exel\bin\Debug\net5.0\1.2.Excel.runtimeconfig.dev.json
+C:\Users\User\source\repos\HW_Exel\HW_Exel\bin\Debug\net5.0\1.2.Excel.dll
+C:\Users\User\source\repos\HW_Exel\HW_Exel\bin\Debug\net5.0\ref\1.2.Excel.dll
+C:\Users\User\source\repos\HW_Exel\HW_Exel\bin\Debug\net5.0\1.2.Excel.pdb
+C:\Users\User\source\repos\HW_Exel\HW_Exel\obj\Debug\net5.0\1.2.Excel.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\HW_Exel\HW_Exel\obj\Debug\net5.0\1.2.Excel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HW_Exel\HW_Exel\obj\Debug\net5.0\1.2.Excel.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HW_Exel\HW_Exel\obj\Debug\net5.0\1.2.Excel.AssemblyInfo.cs
+C:\Users\User\source\repos\HW_Exel\HW_Exel\obj\Debug\net5.0\1.2.Excel.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HW_Exel\HW_Exel\obj\Debug\net5.0\1.2.Excel.dll
+C:\Users\User\source\repos\HW_Exel\HW_Exel\obj\Debug\net5.0\ref\1.2.Excel.dll
+C:\Users\User\source\repos\HW_Exel\HW_Exel\obj\Debug\net5.0\1.2.Excel.pdb
+C:\Users\User\source\repos\HW_Exel\HW_Exel\obj\Debug\net5.0\1.2.Excel.genruntimeconfig.cache
